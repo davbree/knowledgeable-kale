@@ -22,6 +22,7 @@ params:
     - title: FAQ
       url: /faq
       style: link
+  domain: 'https://knowledgeable-kale-bc0f5.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
